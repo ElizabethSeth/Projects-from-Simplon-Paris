@@ -1,0 +1,19 @@
+ShipperName,ShippingMethod,TransporterID
+and Sons,Ground,1
+PLC,Air,2
+PLC,Sea,3
+Ltd,Sea,4
+Inc,Ground,5
+Group,Ground,6
+Inc,Air,7
+and Sons,Sea,8
+Inc,Sea,9
+Group,Sea,10
+LLC,Air,11
+PLC,Ground,12
+LLC,Ground,13
+Ltd,Ground,14
+and Sons,Air,15
+Ltd,Air,16
+LLC,Sea,17
+Group,Air,18
