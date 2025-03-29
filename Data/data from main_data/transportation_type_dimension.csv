@@ -1,0 +1,4 @@
+ShippingMethod,TransportationTypeID
+Ground,1
+Air,2
+Sea,3

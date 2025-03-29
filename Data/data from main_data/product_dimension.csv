@@ -1,0 +1,272 @@
+ProductID,ProductName,ProductCategory,ProductSubCategory,ProductPrice
+1,Nathaniel,Electronics,Camera,0.01
+2,NonExistentProduct,Electronics,Mobile,847.43
+3,Angela,InvalidCategory,Action Figures,386.57
+4,Nathaniel,Electronics,Camera,652.35
+5,Justin,Electronics,Headphones,66005.0
+6,NonExistentProduct,Electronics,Camera,652.35
+7,Shannon,Home & Garden,Gardening Tools,68.01
+8,NonExistentProduct,Home & Garden,Decor,364.01
+9,Justin,Electronics,Headphones,660.05
+10,Elizabeth,InvalidCategory,Shirt,840.19
+11,Jamie,Books,Fiction,930.3
+12,NonExistentProduct,Books,Fiction,99999.99
+13,Robert,Electronics,Mobile,847.43
+14,Shawn,Electronics,Headphones,46109.0
+15,Anthony,Books,Academic,693.39
+16,Pamela,Electronics,Headphones,651.11
+17,Elizabeth,Clothing,Shirt,840.19
+18,Fred,InvalidCategory,Academic,99999.99
+19,NonExistentProduct,Home & Garden,Decor,InvalidPrice
+20,Wanda,Toys,Educational,268.61
+21,Amy,Home & Garden,Decor,99999.99
+22,Angela,Toys,Action Figures,386.57
+23,NonExistentProduct,Books,Academic,951.53
+24,Cynthia,Electronics,Headphones,872.85
+25,Shawn,Electronics,Headphones,461.09
+26,Marvin,Clothing,Shirt,0.01
+27,Katie,Books,Non-fiction,642.11
+28,Amy,Home & Garden,Decor,InvalidPrice
+29,Martha,InvalidCategory,Fiction,433.1
+30,Pamela,Electronics,Headphones,65111.0
+31,Nathaniel,Electronics,Camera,65235.0
+32,NonExistentProduct,InvalidCategory,Dolls,46.23
+33,Tammy,InvalidCategory,Furniture,99999.99
+34,Nathaniel,Electronics,Camera,99999.99
+35,Martha,Books,Fiction,43310.0
+36,Amy,Home & Garden,Decor,0.01
+37,Marvin,Clothing,Shirt,995.13
+38,Michael,InvalidCategory,Dolls,InvalidPrice
+39,NonExistentProduct,Clothing,Shirt,995.13
+40,Kristine,Electronics,Headphones,228.82
+41,Robert,Electronics,Mobile,84743.0
+42,Tammy,Home & Garden,Furniture,431.82
+43,Shawn,InvalidCategory,Headphones,461.09
+44,Jamie,InvalidCategory,Fiction,930.3
+45,Fred,Books,Academic,99999.99
+46,Nathaniel,InvalidCategory,Camera,652.35
+47,Michael,InvalidCategory,Dolls,46.23
+48,Pamela,InvalidCategory,Headphones,651.11
+49,Kristine,Electronics,Headphones,22882.0
+50,NonExistentProduct,Books,Non-fiction,64211.0
+51,Michael,Toys,Dolls,46.23
+52,Martha,Books,Fiction,433.1
+53,NonExistentProduct,Books,Academic,693.39
+54,Michael,Toys,Dolls,InvalidPrice
+55,Marvin,Clothing,Shirt,99513.0
+56,Fred,Books,Academic,951.53
+57,Fred,InvalidCategory,Academic,951.53
+58,Jamie,Books,Fiction,93030.0
+59,Shannon,InvalidCategory,Gardening Tools,68.01
+60,Cynthia,Electronics,Headphones,InvalidPrice
+61,Marvin,Clothing,Shirt,99999.99
+62,Cynthia,InvalidCategory,Headphones,InvalidPrice
+63,Tammy,Home & Garden,Furniture,43182.0
+64,Amy,Home & Garden,Decor,364.01
+65,Robert,Electronics,Mobile,InvalidPrice
+66,Jamie,InvalidCategory,Fiction,93030.0
+67,NonExistentProduct,Electronics,Headphones,872.85
+68,NonExistentProduct,Toys,Dolls,46.23
+69,Wanda,InvalidCategory,Educational,99999.99
+70,Anthony,InvalidCategory,Academic,693.39
+71,Cynthia,Electronics,Headphones,99999.99
+72,Shannon,Home & Garden,Gardening Tools,InvalidPrice
+73,Kristine,Electronics,Headphones,InvalidPrice
+74,Justin,Electronics,Headphones,0.01
+75,Katie,Books,Non-fiction,64211.0
+76,NonExistentProduct,Toys,Educational,268.61
+77,NonExistentProduct,Books,Non-fiction,642.11
+78,Amy,InvalidCategory,Decor,364.01
+79,Shannon,Home & Garden,Gardening Tools,99999.99
+80,Anthony,Books,Academic,69339.0
+81,Angela,Toys,Action Figures,InvalidPrice
+82,Pamela,Electronics,Headphones,InvalidPrice
+83,Cynthia,Electronics,Headphones,87285.0
+84,NonExistentProduct,Home & Garden,Furniture,431.82
+85,Cynthia,Electronics,Headphones,0.01
+86,Katie,Books,Non-fiction,InvalidPrice
+87,Amy,Home & Garden,Decor,36401.0
+88,Robert,InvalidCategory,Mobile,84743.0
+89,Robert,Electronics,Mobile,0.01
+90,Katie,InvalidCategory,Non-fiction,642.11
+91,Anthony,Books,Academic,InvalidPrice
+92,Elizabeth,Clothing,Shirt,InvalidPrice
+93,Martha,Books,Fiction,0.01
+94,Angela,InvalidCategory,Action Figures,InvalidPrice
+95,Robert,InvalidCategory,Mobile,847.43
+96,Martha,Books,Fiction,InvalidPrice
+97,NonExistentProduct,Books,Fiction,433.1
+98,Fred,InvalidCategory,Academic,InvalidPrice
+99,Cynthia,InvalidCategory,Headphones,872.85
+100,Katie,InvalidCategory,Non-fiction,99999.99
+101,Kristine,Electronics,Headphones,0.01
+102,Nathaniel,InvalidCategory,Camera,0.01
+103,NonExistentProduct,Clothing,Shirt,0.01
+104,Anthony,Books,Academic,0.01
+105,Jamie,Books,Fiction,0.01
+106,Justin,Electronics,Headphones,InvalidPrice
+107,Anthony,Books,Academic,99999.99
+108,Wanda,Toys,Educational,26861.0
+109,NonExistentProduct,Books,Fiction,930.3
+110,Pamela,Electronics,Headphones,0.01
+111,NonExistentProduct,Electronics,Headphones,0.01
+112,Marvin,InvalidCategory,Shirt,995.13
+113,NonExistentProduct,Home & Garden,Gardening Tools,68.01
+114,Elizabeth,Clothing,Shirt,84019.0
+115,Jamie,Books,Fiction,InvalidPrice
+116,Tammy,InvalidCategory,Furniture,431.82
+117,NonExistentProduct,Electronics,Headphones,InvalidPrice
+118,Angela,Toys,Action Figures,0.01
+119,Angela,Toys,Action Figures,38657.0
+120,NonExistentProduct,Electronics,Headphones,99999.99
+121,Shannon,Home & Garden,Gardening Tools,0.01
+122,NonExistentProduct,Toys,Action Figures,386.57
+123,NonExistentProduct,Electronics,Headphones,228.82
+124,Shawn,Electronics,Headphones,0.01
+125,Wanda,InvalidCategory,Educational,268.61
+126,Wanda,Toys,Educational,99999.99
+127,Katie,Books,Non-fiction,99999.99
+128,NonExistentProduct,Electronics,Headphones,461.09
+129,Justin,InvalidCategory,Headphones,660.05
+130,Marvin,Clothing,Shirt,InvalidPrice
+131,Shannon,InvalidCategory,Gardening Tools,InvalidPrice
+132,Wanda,Toys,Educational,0.01
+133,NonExistentProduct,Electronics,Headphones,651.11
+134,Marvin,InvalidCategory,Shirt,99513.0
+135,Wanda,InvalidCategory,Educational,InvalidPrice
+136,Elizabeth,InvalidCategory,Shirt,0.01
+137,Fred,Books,Academic,InvalidPrice
+138,NonExistentProduct,InvalidCategory,Non-fiction,642.11
+139,Shannon,Home & Garden,Gardening Tools,6801.000000000001
+140,Tammy,Home & Garden,Furniture,99999.99
+141,Wanda,Toys,Educational,InvalidPrice
+142,NonExistentProduct,Electronics,Headphones,66005.0
+143,Martha,Books,Fiction,99999.99
+144,Katie,InvalidCategory,Non-fiction,64211.0
+145,Amy,InvalidCategory,Decor,InvalidPrice
+146,Katie,Books,Non-fiction,0.01
+147,NonExistentProduct,InvalidCategory,Academic,InvalidPrice
+148,Shawn,Electronics,Headphones,InvalidPrice
+149,NonExistentProduct,Electronics,Mobile,84743.0
+150,Nathaniel,Electronics,Camera,InvalidPrice
+151,Tammy,Home & Garden,Furniture,0.01
+152,NonExistentProduct,Electronics,Mobile,0.01
+153,Tammy,InvalidCategory,Furniture,InvalidPrice
+154,Martha,InvalidCategory,Fiction,InvalidPrice
+155,NonExistentProduct,InvalidCategory,Fiction,433.1
+156,Michael,Toys,Dolls,99999.99
+157,Michael,Toys,Dolls,0.01
+158,Kristine,InvalidCategory,Headphones,228.82
+159,Elizabeth,Clothing,Shirt,0.01
+160,NonExistentProduct,InvalidCategory,Decor,364.01
+161,Robert,Electronics,Mobile,99999.99
+162,Angela,Toys,Action Figures,99999.99
+163,Michael,Toys,Dolls,4623.0
+164,NonExistentProduct,Books,Academic,69339.0
+165,NonExistentProduct,InvalidCategory,Academic,951.53
+166,NonExistentProduct,Home & Garden,Furniture,0.01
+167,Cynthia,InvalidCategory,Headphones,0.01
+168,Michael,InvalidCategory,Dolls,99999.99
+169,Justin,Electronics,Headphones,99999.99
+170,Fred,Books,Academic,0.01
+171,Katie,InvalidCategory,Non-fiction,0.01
+172,Kristine,Electronics,Headphones,99999.99
+173,Anthony,InvalidCategory,Academic,69339.0
+174,NonExistentProduct,Books,Academic,0.01
+175,NonExistentProduct,Books,Non-fiction,0.01
+176,Cynthia,InvalidCategory,Headphones,99999.99
+177,Fred,Books,Academic,95153.0
+178,Robert,InvalidCategory,Mobile,0.01
+179,NonExistentProduct,InvalidCategory,Educational,26861.0
+180,Elizabeth,Clothing,Shirt,99999.99
+181,Shawn,Electronics,Headphones,99999.99
+182,NonExistentProduct,Electronics,Camera,InvalidPrice
+183,NonExistentProduct,Clothing,Shirt,840.19
+184,Angela,InvalidCategory,Action Figures,38657.0
+185,Jamie,InvalidCategory,Fiction,0.01
+186,Pamela,Electronics,Headphones,99999.99
+187,Robert,InvalidCategory,Mobile,InvalidPrice
+188,NonExistentProduct,Books,Academic,95153.0
+189,NonExistentProduct,InvalidCategory,Shirt,84019.0
+190,Shawn,InvalidCategory,Headphones,InvalidPrice
+191,Tammy,Home & Garden,Furniture,InvalidPrice
+192,NonExistentProduct,Electronics,Headphones,660.05
+193,Michael,InvalidCategory,Dolls,4623.0
+194,Marvin,InvalidCategory,Shirt,99999.99
+195,NonExistentProduct,InvalidCategory,Shirt,840.19
+196,NonExistentProduct,InvalidCategory,Dolls,99999.99
+197,NonExistentProduct,Home & Garden,Furniture,43182.0
+198,Cynthia,InvalidCategory,Headphones,87285.0
+199,NonExistentProduct,InvalidCategory,Headphones,651.11
+200,Nathaniel,InvalidCategory,Camera,InvalidPrice
+201,NonExistentProduct,InvalidCategory,Non-fiction,99999.99
+202,NonExistentProduct,Toys,Dolls,99999.99
+203,NonExistentProduct,InvalidCategory,Mobile,847.43
+204,NonExistentProduct,Toys,Dolls,0.01
+205,Jamie,Books,Fiction,99999.99
+206,Amy,InvalidCategory,Decor,36401.0
+207,Pamela,InvalidCategory,Headphones,65111.0
+208,NonExistentProduct,InvalidCategory,Camera,InvalidPrice
+209,NonExistentProduct,Toys,Educational,0.01
+210,Pamela,InvalidCategory,Headphones,0.01
+211,NonExistentProduct,Electronics,Headphones,65111.0
+212,NonExistentProduct,InvalidCategory,Fiction,930.3
+213,Angela,InvalidCategory,Action Figures,0.01
+214,Jamie,InvalidCategory,Fiction,InvalidPrice
+215,Pamela,InvalidCategory,Headphones,InvalidPrice
+216,Marvin,InvalidCategory,Shirt,InvalidPrice
+217,NonExistentProduct,Books,Fiction,93030.0
+218,Kristine,InvalidCategory,Headphones,InvalidPrice
+219,NonExistentProduct,InvalidCategory,Headphones,461.09
+220,Wanda,InvalidCategory,Educational,0.01
+221,NonExistentProduct,Books,Fiction,InvalidPrice
+222,NonExistentProduct,InvalidCategory,Headphones,46109.0
+223,NonExistentProduct,Toys,Dolls,InvalidPrice
+224,NonExistentProduct,Books,Non-fiction,99999.99
+225,NonExistentProduct,InvalidCategory,Gardening Tools,68.01
+226,NonExistentProduct,InvalidCategory,Camera,652.35
+227,Amy,InvalidCategory,Decor,0.01
+228,Shawn,InvalidCategory,Headphones,99999.99
+229,NonExistentProduct,InvalidCategory,Academic,95153.0
+230,Elizabeth,InvalidCategory,Shirt,84019.0
+231,NonExistentProduct,Books,Fiction,43310.0
+232,Marvin,InvalidCategory,Shirt,0.01
+233,NonExistentProduct,Books,Academic,99999.99
+234,Anthony,InvalidCategory,Academic,InvalidPrice
+235,NonExistentProduct,Home & Garden,Gardening Tools,6801.000000000001
+236,NonExistentProduct,InvalidCategory,Fiction,99999.99
+237,Martha,InvalidCategory,Fiction,43310.0
+238,NonExistentProduct,Home & Garden,Furniture,InvalidPrice
+239,NonExistentProduct,Books,Academic,InvalidPrice
+240,NonExistentProduct,Toys,Dolls,4623.0
+241,NonExistentProduct,InvalidCategory,Headphones,InvalidPrice
+242,Robert,InvalidCategory,Mobile,99999.99
+243,NonExistentProduct,InvalidCategory,Shirt,99513.0
+244,NonExistentProduct,InvalidCategory,Educational,268.61
+245,NonExistentProduct,InvalidCategory,Mobile,0.01
+246,NonExistentProduct,Home & Garden,Gardening Tools,0.01
+247,Kristine,InvalidCategory,Headphones,99999.99
+248,NonExistentProduct,InvalidCategory,Furniture,431.82
+249,Martha,InvalidCategory,Fiction,99999.99
+250,Shannon,InvalidCategory,Gardening Tools,99999.99
+251,Shannon,InvalidCategory,Gardening Tools,0.01
+252,NonExistentProduct,Clothing,Shirt,99999.99
+253,NonExistentProduct,Toys,Educational,26861.0
+254,NonExistentProduct,Clothing,Shirt,99513.0
+255,NonExistentProduct,Home & Garden,Decor,36401.0
+256,NonExistentProduct,Toys,Educational,99999.99
+257,Justin,InvalidCategory,Headphones,InvalidPrice
+258,NonExistentProduct,InvalidCategory,Headphones,660.05
+259,Nathaniel,InvalidCategory,Camera,65235.0
+260,Wanda,InvalidCategory,Educational,26861.0
+261,NonExistentProduct,Clothing,Shirt,InvalidPrice
+262,Michael,InvalidCategory,Dolls,0.01
+263,NonExistentProduct,InvalidCategory,Shirt,995.13
+264,NonExistentProduct,Home & Garden,Gardening Tools,99999.99
+265,Anthony,InvalidCategory,Academic,99999.99
+266,NonExistentProduct,Books,Non-fiction,InvalidPrice
+267,NonExistentProduct,InvalidCategory,Headphones,99999.99
+268,Justin,InvalidCategory,Headphones,0.01
+269,Amy,InvalidCategory,Decor,99999.99
+270,Kristine,InvalidCategory,Headphones,22882.0
+271,NonExistentProduct,Electronics,Headphones,22882.0
