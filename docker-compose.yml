@@ -35,5 +35,6 @@ services:
       - ./logstash/logstash.yml:/usr/share/logstash/config/logstash.yml
       - ./data:/data
 
+    command: logstash -f /usr/share/logstash/pipeline/logstash.conf
 volumes:
   esdata:
